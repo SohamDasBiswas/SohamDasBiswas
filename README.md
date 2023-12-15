@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Internet Of Things, Web Development, Video Editing, Graphics designing**
 
-- 👨‍💻 All of my projects are available at [https://sohamdasbiswas.github.io/Portfolio-Website/#Projects](https://sohamdasbiswas.github.io/Portfolio-Website/#)
+- 👨‍💻 All of my projects are available at [https://sohamdasbiswas.github.io/Portfolio-Website/](https://sohamdasbiswas.github.io/Portfolio-Website/#)
 
 - 💬 Ask me about **IoT, Web, etc**
 
