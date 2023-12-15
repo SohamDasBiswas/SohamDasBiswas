@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamdasbiswas" alt="sohamdasbiswas" /></a> </p>
 
-- 🔭 I’m currently working on [FullStack-Trip-Booking-React](https://github.com/SohamDasBiswas/FullStack-Trip-Booking-React)
-
 - 🌱 I’m currently learning **DSA in C++, MERN Development**
 
 - 👀 I’m interested in **Internet Of Things, Web Development, Video Editing, Graphics designing**
